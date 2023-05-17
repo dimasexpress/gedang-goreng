@@ -220,34 +220,6 @@ http://kuchini.site:8080/Gamsgo677/72712fbe/4719
 
 #EXTINF:-1  group-title="Fight" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-==============================================================================MOTOGP ===================================================================================================================
-
-MOTOGP 
-
-#EXTINF:-1  group-title="MOTOGP" tvg-logo="https://i.postimg.cc/jjpNRn4n/V-SPORT-MOTOR.png",V Sport Motor
-http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/98166
-
-#EXTINF:-1  group-title="MOTOGP" tvg-logo="https://i.postimg.cc/Qd9N3pWT/Super-Sport-Motosport.png",SuperSport Motorsport Afrika Selatan
-https://ddy6.salamus1.lol/ddy6/premium424/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
-
-#EXTINF:-1  group-title="MOTOGP" tvg-logo="https://i.postimg.cc/TYX2yvsq/Canal-Moto-Gp.png",Canal+ MotoGP France
-http://dmtn.tv:8080/3887nad0403/5552AQD/52496
-
-#EXTINF:-1  group-title="MOTOGP" tvg-logo="https://i.ibb.co/jbRYLK1/SPOTV.png",SPOTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-============================================================ FORMULA 1 ================================================================================
-
-#EXTINF:-1  group-title="FORMULA 1" tvg-logo="https://i.postimg.cc/zvbGWnZy/Sky-Sports-F1.png",Sky Sports F1 UK
-http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/102231
-
-#EXTINF:-1  group-title="FORMULA 1" tvg-logo="https://i.postimg.cc/RFG7hSfs/Canal-Formula-1.png",Canal+ Formula 1 France
-http://dmtn.tv:8080/3887nad0403/5552AQD/112917
-      
-#EXTINF:-1  group-title="FORMULA 1" tvg-logo="https://i.postimg.cc/jjpNRn4n/V-SPORT-MOTOR.png",V Sport Motor
-http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/98166
 
 
 ========================================================================
@@ -257,26 +229,6 @@ http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/98166
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-14  group-title="CUBMU" tvg-logo="https://i.postimg.cc/T1GDn6mL/Bioskop-Indonesia.png",Bioskop Indonesia
 http://watchlive.my.id/4028c6856fd0d66d0170341bf1000905/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:-14  group-title="CUBMU" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg",TRANS TV
-http://watchlive.my.id/4028c685651d7bcc01651f0b6d210096/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:-14  group-title="CUBMU" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
-http://watchlive.my.id/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:-14  group-title="CUBMU" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68585a0014401863437adf82243/08882f0d830a45f9800649ee6536e6e8.png",ANTV
-http://watchlive.my.id/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:-14  group-title="CUBMU" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",INDOSIAR
-http://watchlive.my.id/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
