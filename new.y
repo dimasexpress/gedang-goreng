@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="Informasi 1" tvg-logo="https://github.com/dimasexpress/gedang-goreng/raw/main/IMG-20230521-WA0001.jpg" group-title="informasi",informasi 1
-https://github.com/dimasexpress/gedang-goreng/raw/main/20230521_2130361.mp4
+https://github.com/dimasexpress/gedang-goreng/raw/main/20230521-2130361.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://github.com/dimasexpress/gedang-goreng/raw/main/IMG-20230521-WA0001.jpg" group-title="informasi",informasi 2
-https://github.com/dimasexpress/gedang-goreng/raw/main/20230521_2014071.mp4
+https://github.com/dimasexpress/gedang-goreng/raw/main/20230521-2014071.mp4
 
 ================== LIVE EVENT ====================
 #EXTINF:0 tvg-logo="https://live-online-events.com/wp-content/uploads/2016/08/Logo-LiveOnlineEvents-Amsterdam-LOE-TV-Color.png" group-title="LIVE EVENTS",Live 1
