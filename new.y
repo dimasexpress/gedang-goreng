@@ -18,10 +18,10 @@ https://github.com/dimasexpress/gedang-goreng/raw/main/20230521-2014071.mp4
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 
-#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Local",SCTV
+#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Local",2. SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",2. Indosiar
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",Indosiar
 #http://watchlive.my.id/indosiar/197
 http://watchlive.my.id/lokal/indo.m3u8
 
