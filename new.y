@@ -22,7 +22,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",Indosiar
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#http://watchlive.my.id/indosiar/197
+http://watchlive.my.id/lokal/indo.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Local",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -243,6 +244,7 @@ http://watchlive.my.id/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/3FH3W8G/Indosiar-hometv.png" group-title="SERVER 2 LOKAL",INDOSIAR
 #http://watchlive.my.id/indosiar/197
 http://watchlive.my.id/lokal/indo.m3u8
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png" group-title="SERVER 2 LOKAL",SCTV
