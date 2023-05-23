@@ -168,6 +168,20 @@ http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TEGAR TV" tvg-logo="https://i.ibb.co/qWgSyGS/Tegartv-jogja-hometv.jpg" group-title="Local",TEGAR TV
 http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.ibb.co/9wbWXfY/V-prime-hometv.png" group-title="Local",VISION PRIME
+http://watchlive.my.id/sa_dash_vmx/VisionPrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-14  group-title="Local" tvg-logo="https://i.postimg.cc/T1GDn6mL/Bioskop-Indonesia.png",Bioskop Indonesia
+http://watchlive.my.id/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="https://i.ibb.co/PhcPSH4/Ok-tv-hometv.png" group-title="Local",OK TV
+http://watchlive.my.id/sa_dash_vmx/OKTV.mpd
+
 ================================================== FIGHT ====================================================================================================
 
 #EXTINF:-1  group-title="Fight" tvg-logo="",Russia : Alexey Mazur vs Franklin - 27 April 2023
@@ -181,6 +195,11 @@ http://kuchini.site:8080/Gamsgo677/72712fbe/4719
 
 #EXTINF:-1  group-title="Fight" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-14  group-title="Fight" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060a0c34340b6/b3884938fdda48e49561e7e27024a00c.jpg",FIGHT TV
+http://watchlive.my.id/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
 
 ========================================================================
@@ -383,6 +402,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #Kids 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-14  group-title="Kids" tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_724.png",CARTOON TV CLASSIC
+http://watchlive.my.id/4028c685840ff0490184560100c34363/manifest.mpd
+
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/Animax_150x150.png" group-title="Kids",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
@@ -399,9 +423,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=ZWMzNDU2ZWIzZDc4YTNkZTAvb0pONVozbS8vL0dBT2dhV09Sam42UU9tbnNtNkdxd0VNRTZ4em0wamhFSlBpbkZnNkYxWE9OUFRoc1ZCRDRDS2JSN3dEQ2g5dGl2NGIvUk0yZnB1SjhsYW9EbTVjaC84MXQwRWdERlVKQVkyTWtvSytqS3JscHorbXRlK3BX
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
-https://cdn.renotv.my.id/go/playt/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+http://watchlive.my.id/sa_dash_vmx/CartoonNetwork.mpd
 
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nick Jr
