@@ -405,6 +405,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #Kids 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://i.ibb.co/HXz99JF/Aniplus-hometv.jpg" group-title="Kids",ANIPLUS
+http://rr1.dens.tv/h/h02/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
+#http://watchlive.my.id/aniplus/1070
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 #EXTINF:-14  group-title="Kids" tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_724.png",CARTOON TV CLASSIC
 http://watchlive.my.id/4028c685840ff0490184560100c34363/manifest.mpd
