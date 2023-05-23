@@ -169,7 +169,9 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEGAR TV" tvg-logo="https://i.ibb.co/qWgSyGS/Tegartv-jogja-hometv.jpg" group-title="Local",TEGAR TV
 http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.ibb.co/9wbWXfY/V-prime-hometv.png" group-title="Local",VISION PRIME
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.ibb.co/9wbWXfY/V-prime-hometv.png" group-title="ENTERTAINMENT",VISION PRIME
 http://watchlive.my.id/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
