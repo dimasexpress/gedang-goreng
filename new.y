@@ -1,15 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="Informasi 1" tvg-logo="https://github.com/dimasexpress/gedang-goreng/raw/main/IMG-20230521-WA0001.jpg" group-title="informasi",informasi 1
-https://github.com/dimasexpress/gedang-goreng/raw/main/20230521-2130361.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://github.com/dimasexpress/gedang-goreng/raw/main/IMG-20230521-WA0001.jpg" group-title="informasi",informasi 2
-https://github.com/dimasexpress/gedang-goreng/raw/main/20230521-2014071.mp4
-
-================== LIVE EVENT ====================
-#EXTINF:0 tvg-logo="https://live-online-events.com/wp-content/uploads/2016/08/Logo-LiveOnlineEvents-Amsterdam-LOE-TV-Color.png" group-title="LIVE EVENTS",Live 1
-
-
-#EXTINF:0 tvg-logo="https://live-online-events.com/wp-content/uploads/2016/08/Logo-LiveOnlineEvents-Amsterdam-LOE-TV-Color.png" group-title="LIVE EVENTS",Live 2
-
 
 #Local
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Local",1 Metro TV
@@ -184,25 +172,13 @@ http://watchlive.my.id/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="https://i.ibb.co/PhcPSH4/Ok-tv-hometv.png" group-title="Local",OK TV
 http://watchlive.my.id/sa_dash_vmx/OKTV.mpd
 
-================================================== FIGHT ====================================================================================================
+===================================iklan
 
-#EXTINF:-1  group-title="Fight" tvg-logo="",Russia : Alexey Mazur vs Franklin - 27 April 2023
-#https://webudit.salamus1.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="" tvg-name="Informasi 1" tvg-logo="https://github.com/dimasexpress/gedang-goreng/raw/main/IMG-20230521-WA0001.jpg" group-title="informasi",iklan 2
+https://github.com/dimasexpress/gedang-goreng/raw/main/20230521-2130361.mp4
 
-#EXTINF:-1  group-title="Fight" tvg-logo="https://i.postimg.cc/QMxKFQ60/Fight-BOX.png",Fight Box
-http://kuchini.site:8080/Gamsgo677/72712fbe/530
-
-#EXTINF:-1  group-title="Fight" tvg-logo="https://i.postimg.cc/L4NPM0Nh/Box-Nation.png",Box Nation
-http://kuchini.site:8080/Gamsgo677/72712fbe/4719
-
-#EXTINF:-1  group-title="Fight" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",Unifi Sport 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-14  group-title="Fight" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060a0c34340b6/b3884938fdda48e49561e7e27024a00c.jpg",FIGHT TV
-http://watchlive.my.id/4028c6857fe540a1018060a0c34340b6/manifest.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://github.com/dimasexpress/gedang-goreng/raw/main/IMG-20230521-WA0001.jpg" group-title="informasi",iklan 1
+https://github.com/dimasexpress/gedang-goreng/raw/main/20230521-2014071.mp4
 
 ========================================================================
 ===LOKAL SERVER 2===========
@@ -321,6 +297,26 @@ https://anevia115.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="MAGNA TV" tvg-logo="https://i.ibb.co/fCmvXQZ/Magna-tv-hometv.png" group-title="SERVER 2 LOKAL",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1202388718_b878000_sleng.m3u8
+
+
+================================================== FIGHT ====================================================================================================
+
+#EXTINF:-1  group-title="Fight" tvg-logo="",Russia : Alexey Mazur vs Franklin - 27 April 2023
+#https://webudit.salamus1.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-1  group-title="Fight" tvg-logo="https://i.postimg.cc/QMxKFQ60/Fight-BOX.png",Fight Box
+http://kuchini.site:8080/Gamsgo677/72712fbe/530
+
+#EXTINF:-1  group-title="Fight" tvg-logo="https://i.postimg.cc/L4NPM0Nh/Box-Nation.png",Box Nation
+http://kuchini.site:8080/Gamsgo677/72712fbe/4719
+
+#EXTINF:-1  group-title="Fight" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",Unifi Sport 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-14  group-title="Fight" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060a0c34340b6/b3884938fdda48e49561e7e27024a00c.jpg",FIGHT TV
+http://watchlive.my.id/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
 
 =================================================
